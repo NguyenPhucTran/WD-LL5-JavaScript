@@ -6,10 +6,10 @@
 // ── Challenge 1: Event Information ──────────────────────────
 // Create your variables here and log each one to the console.
 
-// let eventName = "CodeFest";
-// let speakerName = "";
-// let roomNumber = 204;
-// let attendeeName = "";
+let eventName = "CodeFest";
+let speakerName = "";
+let roomNumber = 204;
+let attendeeName = "";
 
 // console.log(eventName);
 
